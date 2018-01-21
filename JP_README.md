@@ -1,5 +1,5 @@
 # 他言語について
-	英語(English) --> 
+	英語(English) --> [README](https://github.com/Cj-bc/homebrew-others/blob/master/README.md)
 
 # 概要
 	なんか、ちっちゃいユーティリティとか遊びとか諸々
